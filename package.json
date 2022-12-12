@@ -4,7 +4,7 @@
     "description": "",
     "main": "https_server.js",
     "dependencies": {
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "https": "^1.0.0",
         "mqtt": "^3.0.0",
         "node-fetch": "^2.6.0"
